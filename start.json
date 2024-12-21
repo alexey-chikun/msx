@@ -1,6 +1,6 @@
 {    
     "name": "Start Parameter Name",
     "version": "1.0.0",
-    "parameter": "menu:https://alexey-chikun.github.io/msx/data/menu.json",
+    "parameter": "menu:http://5aec34d668e7.goodstreem.org/playlists/uplist/ac990552cccbf6aede0428709f60c3bd/playlist.m3u8",
     "welcome": "none"
 }
